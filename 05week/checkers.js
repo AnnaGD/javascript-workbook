@@ -11,6 +11,15 @@ const rl = readline.createInterface({
 function Checker() {
   // Your code here
 }
+initializeGrid (){
+  for(let row1 = 0; row1 <3; row1++){
+    for(let col1 = 0; col1 < 8;)
+  }
+}
+
+  //arrays to store the instances
+  var pieces = [];
+  var tiles = [];
 
 class Board {
   constructor() {
